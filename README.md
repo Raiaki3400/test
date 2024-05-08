@@ -25,5 +25,3 @@
 # - Fine-tune models based on user feedback and research findings
 # - Document findings and insights from the evaluation process
 
-# Note: The code provided here is an outline of the steps involved.
-# Detailed implementation will require specific libraries, datasets, and model architectures.
